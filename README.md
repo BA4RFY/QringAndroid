@@ -1,7 +1,7 @@
 # QringPrinter – 错题小印热敏打印机助手
 
-[![GitHub release](https://img.shields.io/github/v/release/你的用户名/QringPrinter)](https://github.com/你的用户名/QringPrinter/releases)
-[![License](https://img.shields.io/github/license/你的用户名/QringPrinter)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/BA4RFY/QringAndroid)](https://github.com/BA4RFY/QringAndroid/releases)
+[![License](https://img.shields.io/github/license/BA4RFY/QringAndroid)](LICENSE)
 
 **QringPrinter** 是一款专门为 **小印（Qring / BeePrt BY）系列热敏打印机** 设计的 Android 客户端。它完全离线，无需任何云端服务，通过蓝牙 SPP 协议直接与打印机通信，支持文字、图片、PDF、表格以及自定义标签画布打印。
 
